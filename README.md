@@ -70,3 +70,9 @@ o	XGBoost: A boosting method that excels in tabular regression tasks.
 Summary:
 
 This project delivers a robust, end-to-end Bitcoin price prediction and trading decision support system by combining financial data analysis, technical indicators, and machine learning models. It seamlessly integrates data collection, feature engineering, model training, visualization, and risk assessment into a single workflow. By leveraging algorithms like Linear Regression, Random Forest, and XGBoost, along with key indicators such as RSI, MACD, and Bollinger Bands, the system provides accurate price forecasts and actionable trading signals. With added capabilities for real-time predictions, performance comparison, and risk evaluation, this project serves as a practical and insightful tool for traders, investors, and data scientists aiming to navigate the dynamic world of cryptocurrency markets.
+
+
+![Screenshot 2025-05-26 230647](https://github.com/user-attachments/assets/f5f87e09-2948-484c-aa9b-7e239319ad13)
+
+
+![image](https://github.com/user-attachments/assets/71e6187c-aa8e-4ce5-9362-f2ecc8b39967)
